@@ -17,7 +17,7 @@ Local workspace setup - Eclipse:
 
 ### Functionality
 
-Since this is just a clinet application, as soon as the application is started, Http Requests are sent to http://localhost:8080/api/employees/{id} API asynchronously.  
+Since this is just a client application, as soon as the application is started, Http Requests are sent to http://localhost:8080/api/employees/{id} API asynchronously.  
 
 * No other ReST methods are exposed through this project.
 
