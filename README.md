@@ -21,3 +21,6 @@ Since this is just a clinet application, as soon as the application is started, 
 
 * No other ReST methods are exposed through this project.
 
+### Tech Stack
+* Spring boot 3.5
+* Spring WebFlux
