@@ -5,7 +5,7 @@
 * JDK 21 or higher
 * Gradle 8.1
 * Eclipse (to further enhance the project)
-* BMOService App
+* [BMOService](https://github.com/madhureddy480/BMOService) App
 
 
 ### Setup
